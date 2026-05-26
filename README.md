@@ -22,7 +22,12 @@
 
 ## 🎮 Playing Now
 
-```txt
-Pokémon Fire Red ██████████ 100%
-Coding Mode      █████████░ 90%
-Energy           ████████░░ 80%
+<div align="center">
+
+| Status | Progress |
+|---|---|
+| 🎮 Pokémon Fire Red | ██████████ 100% |
+| 💻 Coding Mode | █████████░ 90% |
+| ⚡ Energy | ████████░░ 80% |
+
+</div>
