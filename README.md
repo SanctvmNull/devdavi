@@ -6,7 +6,7 @@
 
 # ✨ Dev Nightcore ✨
 
-🎮 Gamer • 💻 Developer • ⚡ Pokémon Lover
+🎮 Gamer • 💻 Developer • ⚡ TFT <3
 
 <br>
 
