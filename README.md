@@ -21,7 +21,22 @@
 
 ## 🎮 Playing Now
 
-```txt
-Pokémon Fire Red ██████████ 100%
-Coding Mode      █████████░ 90%
-Energy           ████████░░ 80%
+## 🎮 TFT Status
+
+<div align="center">
+
+| 🎯 Rank | 💎 Diamante |
+|---|---|
+
+<img src="https://img.shields.io/badge/TFT-DIAMANTE-7B68EE?style=for-the-badge&logo=riotgames&logoColor=white">
+
+<br><br>
+
+| Game | Level |
+|---|---|
+| 🐧 TFT Grind | ██████████ |
+| ⚡ Pokémon Energy | █████████░ |
+| 💻 Coding Mode | ████████░░ |
+| 🌙 Night Vibes | ██████████ |
+
+</div>
